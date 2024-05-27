@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KhumaloCraft_POE_P2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KhumaloCraft_POE_P2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\css\\myCSStheme.css",
+      "PackagePath": "staticwebassets\\css\\myCSStheme.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\Durban-Skyline-Art.jpg",
+      "PackagePath": "staticwebassets\\images\\Durban-Skyline-Art.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\Durbsinite - Durban's White Skyline.png",
+      "PackagePath": "staticwebassets\\images\\Durbsinite - Durban's White Skyline.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\Leanas - The Black Leaning Desk for Your Work.png",
+      "PackagePath": "staticwebassets\\images\\Leanas - The Black Leaning Desk for Your Work.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\Leanas - The Bow Leaning Shelf of The Wall.png",
+      "PackagePath": "staticwebassets\\images\\Leanas - The Bow Leaning Shelf of The Wall.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\Magical Peeps - The Mystical Unicorn USB - 16GB.png",
+      "PackagePath": "staticwebassets\\images\\Magical Peeps - The Mystical Unicorn USB - 16GB.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\Nordic-Industrial-Side-Table.png",
+      "PackagePath": "staticwebassets\\images\\Nordic-Industrial-Side-Table.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\NordicSideTable.png",
+      "PackagePath": "staticwebassets\\images\\NordicSideTable.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\OhVansa - Round Coffee Table.png",
+      "PackagePath": "staticwebassets\\images\\OhVansa - Round Coffee Table.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\RESTful - Dual-Purpose Pot Plant Holder.png",
+      "PackagePath": "staticwebassets\\images\\RESTful - Dual-Purpose Pot Plant Holder.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\TheWorldInArt.jpg",
+      "PackagePath": "staticwebassets\\images\\TheWorldInArt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\Time Clock - Turquoise Deep Frame Round Clock.png",
+      "PackagePath": "staticwebassets\\images\\Time Clock - Turquoise Deep Frame Round Clock.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\images\\Turquoise Bubble Bedside Table.png",
+      "PackagePath": "staticwebassets\\images\\Turquoise Bubble Bedside Table.png"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KhumaloCraft_POE_P2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KhumaloCraft_POE_P2.props",
+      "PackagePath": "build\\KhumaloCraft_POE_P2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KhumaloCraft_POE_P2.props",
+      "PackagePath": "buildMultiTargeting\\KhumaloCraft_POE_P2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KhumaloCraft_POE_P2.props",
+      "PackagePath": "buildTransitive\\KhumaloCraft_POE_P2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

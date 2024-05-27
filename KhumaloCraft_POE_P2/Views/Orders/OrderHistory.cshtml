@@ -1,0 +1,58 @@
+﻿@model KhumaloCraft_POE_P2.ViewModels.OrderHistoryViewModel
+
+@{
+    ViewData["Title"] = "Order History";
+}
+
+<h1 style="color:seagreen">@ViewData["Title"]</h1>
+<h4>Here, you can view all the Orders you have placed to date!</h4>
+<h4>Gaze at the history of all the beautfull art products you purchased from us! ^^</h4>
+<p>            </p>
+<p>_____________________________________________________________________________________________________________________________________________________________________________________________________________</p>
+
+<form asp-action="OrderHistory" method="get">
+    <div class="form-group">
+        <lable for="FilterProductName">Product Name:</lable>
+        <input type="text" asp-for="FilterProductName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="FilterUserName">User Name:</label>
+        <input type="text" asp-for="FilterUserName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="FilterOrderDate">Order Date:</label>
+        <input type="text" asp-for="FilterOrderDate" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+<hr />
+
+@if (Model.Orders.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>User</th>
+                <th>Order Date</th>
+                <th>Last Modified</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Orders)
+            {
+                <tr>
+                    <td>@item.Product.ProductName</td>
+                    <td>@item.User.UserName</td>
+                    <td>@item.Date.ToShortDateString()</td>
+                    <td>@item.ModifiedDate.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No order history found based on your filters</p>
+}

@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|c:\\users\\kreas\\source\\repos\\khumalocraft_poe_p2\\views\\orders\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\orders\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\migrations\\20240525132522_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:migrations\\20240525132522_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\viewmodels\\orderhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:viewmodels\\orderhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\data\\khumalocraftdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:data\\khumalocraftdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\migrations\\20240527103639_orderhistorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:migrations\\20240527103639_orderhistorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\migrations\\20240526194206_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:migrations\\20240526194206_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\migrations\\khumalocraftdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:migrations\\khumalocraftdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\migrations\\20240526194206_order.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:migrations\\20240526194206_order.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\migrations\\20240523083732_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:migrations\\20240523083732_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\approles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\approles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\views\\approles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:views\\approles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{756882EC-1E72-4DC9-8CCE-4245A5D95536}|KhumaloCraft_POE_P2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:23:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvw4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T06:35:22.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T09:59:33.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T16:54:31.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\OrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\OrderHistory.cshtml",
+              "RelativeToolTip": "Views\\Orders\\OrderHistory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:37:23.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAADwv64AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:04:58.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240525132522_Product.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240525132522_Product.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240525132522_Product.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240525132522_Product.cs",
+              "RelativeToolTip": "Migrations\\20240525132522_Product.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:25:22.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:12:03.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T10:01:13.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T06:17:32.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:14:50.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T11:19:34.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:46:01.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Delete.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAACkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:10:41.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwCgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:08:20.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T06:18:04.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T10:01:34.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\ViewModels\\OrderHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OrderHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\ViewModels\\OrderHistoryViewModel.cs",
+              "RelativeToolTip": "ViewModels\\OrderHistoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:33:03.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KhumaloCraftDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Data\\KhumaloCraftDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\KhumaloCraftDbContext.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Data\\KhumaloCraftDbContext.cs",
+              "RelativeToolTip": "Data\\KhumaloCraftDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:16:20.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240527103639_OrderHistoryCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240527103639_OrderHistoryCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240527103639_OrderHistoryCreate.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240527103639_OrderHistoryCreate.cs",
+              "RelativeToolTip": "Migrations\\20240527103639_OrderHistoryCreate.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:36:39.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:05:20.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Models\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "Models\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Models\\OrderHistory.cs",
+              "RelativeToolTip": "Models\\OrderHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:06:32.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KhumaloCraftDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\KhumaloCraftDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\KhumaloCraftDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\KhumaloCraftDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\KhumaloCraftDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:22:26.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240526194206_Order.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240526194206_Order.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240526194206_Order.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240526194206_Order.cs",
+              "RelativeToolTip": "Migrations\\20240526194206_Order.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwD0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:42:06.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAewGoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:18:14.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T08:00:46.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Controllers\\AppRolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppRolesController.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Controllers\\AppRolesController.cs",
+              "RelativeToolTip": "Controllers\\AppRolesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAIA4wCUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:15:52.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240526194206_Order.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240526194206_Order.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240526194206_Order.Designer.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240526194206_Order.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240526194206_Order.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:20:22.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240523083732_IdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240523083732_IdentityTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240523083732_IdentityTables.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Migrations\\20240523083732_IdentityTables.cs",
+              "RelativeToolTip": "Migrations\\20240523083732_IdentityTables.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:37:32.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T15:32:09.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\AppRoles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\AppRoles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\AppRoles\\Create.cshtml",
+              "RelativeToolTip": "Views\\AppRoles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:25:09.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\AppRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AppRoles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\Views\\AppRoles\\Index.cshtml",
+              "RelativeToolTip": "Views\\AppRoles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:47:17.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\KhumaloCraft_POE_P2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T08:07:26.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

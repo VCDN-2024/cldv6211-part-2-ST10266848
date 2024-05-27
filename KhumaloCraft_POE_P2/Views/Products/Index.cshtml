@@ -1,0 +1,83 @@
+﻿@model IEnumerable<KhumaloCraft_POE_P2.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="color:seagreen">My Work</h1>
+<p>    </p>
+<h4>~ Welcome to my work! See anything that interests you? To find more about it, just click on the 'Detail' button.</h4>
+<p>     </p>
+<h4>~ If you would like to order a product, then just go on to the 'Order' page. Don't be shy ^^</h4>
+<p>    </p>
+<h5>~ These are all the handcrafted products we currently have on sale:</h5>
+<p>      </p>
+<p>_____________________________________________________________________________________________________________________________________________________________________________________________________________</p>
+
+<p>
+    <a asp-action="Create">Add</a>
+</p>
+
+
+<table class="table" left>
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductCategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductAvailability)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductPrice) (In ZAR)
+            </th>
+            <@* th>
+                @Html.DisplayNameFor(model => model.User)
+            </th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+              <img src="@Url.Action("GetImage", "Products", new { productId = item.ProductId })" height="250" width="250" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductCategory)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductAvailability)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductPrice) .99
+            </td>
+            @* <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td> *@
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a>
+                <a asp-action="Details" asp-route-id="@item.ProductId">Details</a>
+                <a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+

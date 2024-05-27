@@ -1,0 +1,105 @@
+﻿@model IEnumerable<KhumaloCraft_POE_P2.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<h1 style="color:seagreen">Order</h1>
+<p>       </p>
+<h4>~ Welcome to the order page! Found something you loved from 'My Work'? Well then, now just go ahead and place an order! ^^</h4>
+<p>           </p>
+<h4 style="color:seagreen">As For How To Place An Order: </h4>
+<h5>* Remember to select your email from the userId drop-down! We're working on enhancing that!</h5>
+<h5>* Enter all the necessary details and you will be good to go!</h5> 
+<h5>* Even if you make a mistake with an order, just reach out to us by contacting one of our Admin team members to help (*Refer to 'Contact Us'*).</h5>
+<p>             </p>
+<p>             </p>
+<h4>~ After placing an order, our team will process your order and send you a confirmation email within the next few minutes!</h4>
+<h4>~ And up to 24 hours after placing your order, you will receive an email with information about when your product will reach you!</h4>
+<p>      </p>
+<p>_____________________________________________________________________________________________________________________________________________________________________________________________________________</p>
+
+<p>
+    <a asp-action="Create">Place Order</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModifiedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShippingAddress)
+            </th>
+            @* <th>
+                @Html.DisplayNameFor(model => model.CreditCardName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreditCardNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreditCardExpDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreditCardCCVcode)
+            </th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShippingAddress)
+            </td>
+           @*  <td>
+                @Html.DisplayFor(modelItem => item.CreditCardName)
+            </td> *@
+          @*   <td>
+                @Html.DisplayFor(modelItem => item.CreditCardNumber)
+            </td> *@
+            @* <td>
+                @Html.DisplayFor(modelItem => item.CreditCardExpDate)
+            </td> *@
+            @* <td>
+                @Html.DisplayFor(modelItem => item.CreditCardCCVcode)
+            </td> *@
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OrderId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OrderId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OrderId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
